@@ -1,2 +1,0 @@
-# Biometrics
-PalmAuthPro
