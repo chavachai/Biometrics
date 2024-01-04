@@ -36,7 +36,7 @@ Chaitanya Lakshmi Chava, Shravan Sailada, Vathsalya Pakalpati
 Customize paths and parameters as needed in the code.
 
 12. Feedback:
-For issues or improvements, contact chavachaitanyalakshmi@gmail.com, shravanshivi15@gmail.com, vathsalya1999@gmail.com
+For issues or improvements, contact chavachaitanyalakshmi@gmail.com
 
 13. Acknowledgments:
 Acknowledgments to OpenCV, TensorFlow, and Tkinter.
