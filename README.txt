@@ -27,7 +27,7 @@ Click "Unregister" to remove a registered user. Enter the user label when prompt
 - The system uses a CNN model for palm authentication.
 
 9. Author:
-Chaitanya Lakshmi Chava, Shravan Sailada, Vathsalya Pakalpati
+Chaitanya Lakshmi Chava
 
 10. Date:
 12/12/2023
